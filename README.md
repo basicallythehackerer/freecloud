@@ -1,1 +1,1 @@
-failed attempt #1 lmao but free cloud storage on replit 
+failed attempt #1 lmao but free cloud storage on replit  make 2 folders public and put index.html for it to run to upload files which it logs in console the url and then uploads where it will save all files !
